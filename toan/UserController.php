@@ -1,0 +1,3 @@
+function CreateUser() {
+	return false;
+}
